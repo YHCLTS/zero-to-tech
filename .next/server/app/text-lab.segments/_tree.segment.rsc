@@ -1,0 +1,2 @@
+:HL["/_next/static/chunks/2akh1xkj6j6do.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"text-lab","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"zeysrGIXexwTSW9smJDJC"}

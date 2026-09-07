@@ -1,0 +1,3 @@
+module.exports=[98421,a=>{"use strict";var b=a.i(7997);a.s(["default",0,function({children:a}){return(0,b.jsx)("html",{lang:"zh-CN",children:(0,b.jsx)("body",{children:(0,b.jsx)("div",{className:"app-shell",children:(0,b.jsx)("div",{className:"page-shell",children:(0,b.jsx)("main",{className:"page-content",children:a})})})})})},"metadata",0,{title:"zero to tech",description:"个人主页 + 文字实验室"}])},46122,function(a){a.n(a.i(98421))}];
+
+//# sourceMappingURL=app_layout_jsx_181co3-._.js.map
